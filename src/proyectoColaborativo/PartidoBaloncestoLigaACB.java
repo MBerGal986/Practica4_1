@@ -52,8 +52,8 @@ public class PartidoBaloncestoLigaACB implements PartidoBaloncesto {
  
  // Método para la impresión de los resultados del partido.
  public void imprimirMarcador () {
-     System.out.println("Canastas realizadas por el equipo local (" + equipoLocal + "): " + canastasEquipoLocal);
-     System.out.println("Canastas realizadas por el equipo visitante (" + equipoVisitante + "): " + canastasEquipoVisitante);
+     System.out.println("Canastas realizadas por el equipo local (" + equipoLocal + "): " +  canastasEquipoLocal);
+     System.out.println("Canastas realizadas por el equipo visitante (" + equipoVisitante + "): " +  canastasEquipoVisitante);
  }
  
 }

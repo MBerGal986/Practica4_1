@@ -52,8 +52,8 @@ public class PartidoFutbolLigaEspanola implements PartidoFutbol {
  
  // Método para la impresión de los resultados del partido.
  public void imprimirMarcador () {
-     System.out.println("Goles realizados por el equipo local (" + equipoLocal + "): " + golesEquipoLocal);
-     System.out.println("Goles realizados por el equipo visitante (" + equipoVisitante + "): " + golesEquipoVisitante);
+     System.out.println("Goles realizados por el equipo local (" + equipoLocal + "): " +  golesEquipoLocal);
+     System.out.println("Goles realizados por el equipo visitante (" + equipoVisitante + "): " +  golesEquipoVisitante);
  }
  
 }
