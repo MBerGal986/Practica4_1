@@ -19,7 +19,7 @@ public class Ameba {
 	
 	@Override
 	public String toString() {
-		return "Soy una ameba y peso " + peso + " microgramos.";
+		return "Soy una ameba y peso " + peso + " microgramos. ¡Viva!";
 	}
 
 }
