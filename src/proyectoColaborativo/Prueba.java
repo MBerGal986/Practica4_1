@@ -17,7 +17,7 @@ public class Prueba {
         
         // Crea objeto del tipo PartidoBaloncestoLigaACB y prueba sus métodos.
         PartidoBaloncestoLigaACB partido2 = new PartidoBaloncestoLigaACB();
-        System.out.println("Duracion del partido = " + PartidoBaloncestoLigaACB.duracionPartidoBaloncesto);
+        System.out.println("Duración del partido = " + PartidoBaloncestoLigaACB.duracionPartidoBaloncesto);
         partido2.setEquipoLocal("Chicago Bulls");
         partido2.setEquipoVisitante("YoRHa");
         partido2.setCestasEquipoLocal(23);
